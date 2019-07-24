@@ -33,7 +33,7 @@ h1 {
 h2 {
   font-family: 'Cinzel', serif;
   font-size: 20px;
-  color: #40a798;
+  color: #ffba92;
 }
 
 #réseaux {
@@ -75,3 +75,23 @@ h2 {
   padding: 0px 20px;
 }
 
+.btn-green:hover {
+    background-color: black;
+    color: white;
+}
+a:hover {
+    color: black;
+}
+.btn-green {
+    background-color: #ffba92;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 4px;
+}
+a {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: #ffba92;
+    font-weight: 600;
+    font-size: 16px;
+}
